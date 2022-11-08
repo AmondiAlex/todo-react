@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+
+div{
+    display: block;
+    text-align:center;
+    font-size: 40px;
+    padding-top: 30px;
+
+    
+    
+}
+h1{
+    font-style: italic;
+    color: rgb(156, 58, 148);
+    font-weight: bold;
+    
+
+}
+button{
+    color: rgb(238, 88, 42);
+    font-size: medium;
+    border:none;
+    border-radius: 10px;
+    background-color: azure;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 3px;
+    
+   
+
+}
